@@ -1,2 +1,2 @@
 # myProjects
-Collection of my projects done by me
+Collection of projects done by me
